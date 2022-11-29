@@ -13,7 +13,7 @@
  * Erstellen Sie auch ein UML Klassendiagramm und gerne auch Anwendungsfall-, Sequenz- oder Aktivitätsdiagramm.
  */
 
-public class Lösung_7
+public class Main
 {
     public static void main(String[] args)
     {
